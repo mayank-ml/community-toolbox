@@ -39,3 +39,6 @@ API calls are based on: https://www.npmjs.com/package/github-api-simple
 Assuming `tape` is installed via `npm install`:
 
 `npm test`
+## Contributing members
+
+# mangovesh
